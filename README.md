@@ -10,7 +10,7 @@ This is a firebase email verification Flutter project that showcases the capabil
 - Responsive design for various screen sizes.
 
 ## Project Structure
-demo/
+##demo/
 -├── android/                # Android-specific files
 -│   ├── app/                # Android app module
 -│   ├── build.gradle        # Gradle build file
