@@ -11,27 +11,27 @@ This is a firebase email verification Flutter project that showcases the capabil
 
 ## Project Structure
 demo/
-├── android/                # Android-specific files
-│   ├── app/                # Android app module
-│   ├── build.gradle        # Gradle build file
-│   └── settings.gradle     # Gradle settings file
-├── ios/                    # iOS-specific files
-│   ├── Runner/             # iOS app module
-│   └── Flutter/            # Flutter-related configurations
-├── linux/                  # Linux-specific files
-│   └── main.cc             # Main entry point for Linux
-├── macos/                  # macOS-specific files
-│   └── Runner/             # macOS app module
-├── windows/                # Windows-specific files
-│   └── runner/             # Windows runner files
-├── web/                    # Web-specific files
-│   ├── index.html          # Main HTML file for web
-│   └── manifest.json       # Web app manifest
-├── lib/                    # Dart source files
-│   ├── main.dart           # Main entry point for the Flutter app
-│   ├── home_page.dart      # Home page widget
-│   └── login_page.dart     # Login page widget
-├── test/                   # Unit and widget tests
-│   └── widget_test.dart     # Example widget test
-├── pubspec.yaml            # Project dependencies and metadata
-└── README.md               # Project documentation
+-├── android/                # Android-specific files
+-│   ├── app/                # Android app module
+-│   ├── build.gradle        # Gradle build file
+-│   └── settings.gradle     # Gradle settings file
+-├── ios/                    # iOS-specific files
+-│   ├── Runner/             # iOS app module
+-│   └── Flutter/            # Flutter-related configurations
+-├── linux/                  # Linux-specific files
+-│   └── main.cc             # Main entry point for Linux
+-├── macos/                  # macOS-specific files
+-│   └── Runner/             # macOS app module
+-├── windows/                # Windows-specific files
+-│   └── runner/             # Windows runner files
+-├── web/                    # Web-specific files
+-│   ├── index.html          # Main HTML file for web
+-│   └── manifest.json       # Web app manifest
+-├── lib/                    # Dart source files
+-│   ├── main.dart           # Main entry point for the Flutter app
+-│   ├── home_page.dart      # Home page widget
+-│   └── login_page.dart     # Login page widget
+-├── test/                   # Unit and widget tests
+-│   └── widget_test.dart     # Example widget test
+-├── pubspec.yaml            # Project dependencies and metadata
+-└── README.md               # Project documentation
