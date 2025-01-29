@@ -1,4 +1,4 @@
-# Demo Flutter Project
+# firebase email verification
 
 ## Project Description
 This project is a demonstration of a Flutter application that showcases the ability to build cross-platform mobile and web applications. It integrates Firebase for backend services, allowing for user authentication and data management. The application features a user-friendly interface with responsive design, making it suitable for various devices.
